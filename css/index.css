@@ -277,6 +277,8 @@ nav a {
 @media (max-width: 500px) {
   .home .content-section .img-content {
     width: 100%;
+    display: flex;
+    justify-content: center;
   }
 }
 .home .content-section .img-content img {
